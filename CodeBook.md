@@ -1,12 +1,13 @@
 # CodeBook
 
-##Data source
+## Data source
+
 For this particular exercise data which was used was about activity recognition via smartphone sensor values. For more details, use the below URL.
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-##Data
+## Data
 
 In the data collection, following are represented.
 
